@@ -1,0 +1,19 @@
+{
+  "name": "IDTest",
+  "version": "0.0.1",
+  "summary": "IDTest",
+  "description": "IDTest by Island.",
+  "homepage": "https://github.com/DesertIslandOfTheWorld/IDTest",
+  "license": "MIT",
+  "authors": {
+    "Island": "1829871867@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/DesertIslandOfTheWorld/IDTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "IDTest/*.swift"
+}
